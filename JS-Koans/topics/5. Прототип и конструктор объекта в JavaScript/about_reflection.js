@@ -1,4 +1,4 @@
-dedescribe('About Reflection (about_reflection.js)', function () {
+describe('About Reflection (about_reflection.js)', function () {
     function A() {
         this.aprop = 'A';
     }
