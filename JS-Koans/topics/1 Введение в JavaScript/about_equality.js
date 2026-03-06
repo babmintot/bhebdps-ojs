@@ -20,7 +20,7 @@ describe('About Equality (about_equality.js)', function () {
 
     it('string literals', function () {
         // Типы кавычек взаимозаменяемы, но должны совпадать.
-        expect('frankenstein' === 'frankenstein).toBeTruthy();
+        expect('frankenstein' === "frankenstein").toBeTruthy();
         // Кавычки могут быть как одинарными, так и двойными.
         expect('frankenstein' === 'frankenstein').toBeTruthy();
     });
