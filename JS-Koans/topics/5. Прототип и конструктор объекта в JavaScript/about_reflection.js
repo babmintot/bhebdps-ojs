@@ -40,7 +40,7 @@ dedescribe('About Reflection (about_reflection.js)', function () {
         let a = new A();
         let b = new B();
         // Какой тип конструктора a?
-        expect('function').toBe(typeof a.constructor);
+        expect('function').toBe(typeof a.constructor);``
         // Какое имя у конструктора a?
         expect('A').toBe(a.constructor.name);
         // Какое имя у конструктора b?
