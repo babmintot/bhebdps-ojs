@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\JS-Koans\\topics",
-    "\\JS-Koans\\topics\\1 Введение в JavaScript",
-    "\\JS-Koans\\topics\\2 Массивы и объекты",
-    "\\JS-Koans\\topics\\3 Функции",
-    "\\JS-Koans\\topics\\4 Функции высшего порядка",
     "\\JS-Koans\\topics\\5. Прототип и конструктор объекта в JavaScript",
     "\\Домашние задания",
-    "\\Домашние задания\\2.2 Классы в JavaScript",
-    "\\Домашние задания\\2.4 Асинхронность"
+    "\\Домашние задания\\1.4 Функции высшего порядка в JavaScript",
+    "\\Практика"
   ],
-  "SelectedNode": "\\Домашние задания\\2.4 Асинхронность\\tests.js",
+  "SelectedNode": "\\Домашние задания\\1.4 Функции высшего порядка в JavaScript\\tests.js",
   "PreviewInSolutionExplorer": false
 }
